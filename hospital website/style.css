@@ -1,0 +1,122 @@
+.registered{
+        overflow-wrap: inherit;
+        padding-right: 889px;
+        padding-left: 0px;
+        padding-top: 100px;
+    }
+#nuser {
+    margin: -22px;
+    padding-left: 893px;
+    margin-top: -248px;
+    padding-right: 75px;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  #myVideo1 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 120%;
+  }
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  h1{
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+    .content1 {
+      position: fixed;
+      background: rgba(0, 0, 0, 0.5);
+      color: #f1f1f1;
+      width: 50%;
+      padding: 120px;
+      margin-left: 188px;
+    }
+    .content2 {
+      position: fixed;
+      background: rgba(0, 0, 0, 0.5);
+      color: #f1f1f1;
+      width: 50%;
+      height: 122%;
+      padding: 0px;
+      margin-left: 300px;
+  }
+    .TxT {
+      height: 29px;
+      width: 201px;
+      border-radius: 13.5px;
+      animation: auto;
+      animation-fill-mode: initial;
+      align-items: 12px;
+      opacity: 45%;
+      background-color: darkslategrey;
+      color: white;
+      display: inline-grid;
+  }
+  
+  button {
+    height: 43px;
+    width: 285px;
+    animation-duration: blue solid;
+    font-weight: bold;
+    align-items: center;
+    margin: 6px;
+    padding: 5px;
+    color: beige;
+    background-position-x: inherit;
+    background-color: #4848f4b8;
+    border-radius: 15px;
+    font-family: monospace;
+    font-size: 23px;
+    border-color: beige;
+}
+.btn1{
+  height: 43px;
+    width: 285px;
+    animation-duration: blue solid;
+    font-weight: bold;
+    align-items: center;
+    margin: 6px;
+    padding: 5px;
+    color: beige;
+    background-position-x: inherit;
+    background-color: #4848f4b8;
+    border-radius: 15px;
+    font-family: monospace;
+    font-size: 23px;
+    border-color: beige;
+}
+label {
+  font-family: system-ui;
+  font-size: 15px;
+  color: beige;
+  overflow-anchor: revert;
+  text-align: center;
+  padding-block: initial;
+  offset-distance: initial;
+}
+.login2{
+  margin: -322px;
+  padding-left: 992px;
+  padding-top: 0px;
+  margin-top: -558px;
+
+}
+.front{
+margin-left:-1000px;
+height: 70px;
+width: 70px;
+margin-top: 240px;
+}
